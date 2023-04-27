@@ -3,6 +3,7 @@ This is the final project of class STATS 415.
 We chose an ongoing Kaggle competition [Novozymes Enzyme Stability Prediction](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction).
 
 The folder contains:
+
 Code: 
 
 Code_implementation_of_method_1.ipynb 
